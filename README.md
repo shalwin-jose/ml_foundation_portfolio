@@ -1,1 +1,2 @@
-# ml_foundation_portfolio
+## ml_foundation_portfolio
+This repository contains a structured collection of machine learning labs and experiments. It serves as both a personal reference library and a practical proof of work for foundational ML concepts. Inside, you will find hands-on Python implementations of various algorithms—including Logistic Regression, Decision Trees, and Support Vector Machines (SVM)—applied to public datasets to solve standard regression and classification problems
